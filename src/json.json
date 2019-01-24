@@ -1,0 +1,2201 @@
+[
+{
+    "groupID": 30399,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+}][
+{
+    "groupID": 30399,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30400,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+}][
+{
+    "groupID": 30399,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30400,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30401,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+}][
+{
+    "groupID": 30399,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30400,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30401,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30402,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+}][
+{
+    "groupID": 30399,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30400,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30401,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30402,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30403,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+}][
+{
+    "groupID": 30399,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30400,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30401,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30402,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30403,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30404,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+}][
+{
+    "groupID": 30399,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30400,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30401,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30402,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30403,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30404,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30405,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+}][
+{
+    "groupID": 30399,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30400,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30401,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30402,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30403,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30404,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30405,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30406,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+}][
+{
+    "groupID": 30399,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30400,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30401,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30402,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30403,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30404,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30405,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30406,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30407,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+}][
+{
+    "groupID": 30399,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30400,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30401,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30402,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30403,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30404,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30405,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30406,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30407,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+},
+{
+    "groupID": 30408,
+    "students": [
+    {
+        "id": 77732,
+        "name": "Vivian Alcala",
+        "created_at": "2018-08-07T16:41:10-04:00",
+        "sortable_name": "Alcala, Vivian",
+        "short_name": "Vivian Alcala",
+        "sis_user_id": "6023342",
+        "integration_id": null
+    },
+    {
+        "id": 13424,
+        "name": "Jeffrey Feliciano",
+        "created_at": "2017-08-29T06:45:07-04:00",
+        "sortable_name": "Feliciano, Jeffrey",
+        "short_name": "Jeffrey Feliciano",
+        "sis_user_id": "5968747",
+        "integration_id": null
+    },
+    {
+        "id": 37303,
+        "name": "Nancy Jaramillo",
+        "created_at": "2017-12-26T15:00:06-05:00",
+        "sortable_name": "Jaramillo, Nancy",
+        "short_name": "Nancy Jaramillo",
+        "sis_user_id": "5155980",
+        "integration_id": null
+    },
+    {
+        "id": 63019,
+        "name": "Redwin Wilchcombe Ii",
+        "created_at": "2018-05-12T18:11:24-04:00",
+        "sortable_name": "Wilchcombe Ii, Redwin",
+        "short_name": "Redwin Wilchcombe Ii",
+        "sis_user_id": "5099625",
+        "integration_id": null
+    }]
+}]
