@@ -135,7 +135,7 @@ class AddBookmarkContainer extends React.Component {
 
   refreshBookmarks() {
     console.log('refresh bookmarks')
-    fetch('/api/bookmarks')
+    fetch('http://bookmark-manager.herokuapp.com/api/bookmarks')
       .then( res => res.json() )
       .then( res => this.setState({ bookmarks: res }) )
       .catch( err => console.log('Error fetching bookmarks: ', err) );
@@ -150,7 +150,9 @@ class AddBookmarkContainer extends React.Component {
         this.refreshBookmarks();
         this.setState({ dialogOpen: true, dialogContent: 'Bookmark deleted.' });
       })
-      .catch( err => 'There was an error deleting the bookmark: ', err );
+      .catch( err => console.log('There was an error deleting the bookmark: ', err) );
+
+    chrome.browserAction.setIcon({ path: 'images/get_started16.png' });
   }
 
   setFormState(value) {
